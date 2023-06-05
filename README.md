@@ -1,0 +1,2 @@
+# DailyMealEntryManager
+dedicated for AUAH
